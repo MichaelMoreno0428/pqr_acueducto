@@ -1,0 +1,26 @@
+# --- Core Framework ---
+streamlit
+
+# --- Data Handling and Numerical Operations ---
+pandas
+numpy
+scikit-learn
+joblib
+openpyxl
+# --- Plotting and Visualization ---
+matplotlib
+seaborn
+plotly
+
+# --- AWS Integration (Amazon Bedrock) ---
+boto3
+
+# --- YouTube and Media Analysis (Required for full functionality) ---
+yt-dlp
+moviepy
+opencv-python-headless
+Pillow
+
+# --- Audio Transcription (Choose one or both) ---
+openai-whisper
+SpeechRecognition
