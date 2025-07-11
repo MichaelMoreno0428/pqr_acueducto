@@ -24,3 +24,4 @@ Pillow
 # --- Audio Transcription (Choose one or both) ---
 openai-whisper
 SpeechRecognition
+docx
