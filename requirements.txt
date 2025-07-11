@@ -25,3 +25,4 @@ Pillow
 openai-whisper
 SpeechRecognition
 docx
+exceptions
